@@ -106,7 +106,6 @@ ForegroundVisited=143,188,187
 
 [DirSelect Dialog]
 DirSelectDialog Size=960,540
-History Items[$e]=file:$HOME/Desktop/eGH/dns
 
 [General]
 ColorSchemeHash=faaf5d0b6da1b5cb6a1d51987c1f844813d2a797
