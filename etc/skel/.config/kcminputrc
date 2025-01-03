@@ -1,0 +1,7 @@
+[Libinput][1267][12541][ELAN0791:00 04F3:30FD Touchpad]
+NaturalScroll=true
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+cursorSize=20
+cursorTheme=Bibata-Modern-Ice
