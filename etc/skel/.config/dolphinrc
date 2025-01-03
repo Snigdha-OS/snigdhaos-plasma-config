@@ -1,0 +1,20 @@
+[ExtractDialog]
+1920x1080 screen: Height=518
+1920x1080 screen: Width=1249
+DirHistory[$e]=$HOME/Downloads/
+
+[General]
+EditableUrl=true
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2024,12,31,7,1,44.035
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,gdk-pixbuf-thumbnailer
