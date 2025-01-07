@@ -1,0 +1,15 @@
+[Desktop Entry]
+DefaultProfile=Snigdha.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[MemorySettings]
+EnableMemoryMonitoring=true
+
+[UiSettings]
+ColorScheme=
