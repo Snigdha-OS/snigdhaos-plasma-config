@@ -1,5 +1,5 @@
 [ExtractDialog]
-1920x1080 screen: Height=518
+1920x1080 screen: Height=523
 1920x1080 screen: Width=1249
 
 [General]
@@ -14,6 +14,9 @@ Places Icons Static Size=22
 
 [MainWindow]
 ToolBarsMovable=Disabled
+
+[Notification Messages]
+warnAboutRisksBeforeActingAsAdmin=false
 
 [PreviewSettings]
 Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,gdk-pixbuf-thumbnailer
